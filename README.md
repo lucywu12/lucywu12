@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucywu12
-- 👀 I’m interested in Applied Math, Computer Science, and... so many more things! The world is my oyster :)
-- 🌱 I’m currently learning Python
-- 💞️ View my graphic design work at tinyurl.com/lucywudesign
+- 👩‍💻 I have interests in Applied Math, Computer Science, and biotech! I also have a passion for design.
+- 🌱 I’m currently working on my programming challenge skills and exploring web dev, but I'm always open to learning new things!
+- ✨ View my portfolio at https://bio.site/lucywu
 - 📫 Drop me a line at lwu72@jhu.edu or lucy.wu012@gmail.com
 
 <!---
